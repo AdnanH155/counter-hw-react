@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import Main from "./Components/Main";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import Link from "./Components/Link";
-import Nav from "./Components/Nav";
+import Main from "./Main";
+import Header from "./Header";
+import Footer from "./Footer";
+import Link from "./Link";
+import Nav from "./Nav";
 class App extends Component {
   state = { count: 1 };
 
